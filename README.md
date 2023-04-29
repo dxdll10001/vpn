@@ -109,8 +109,8 @@ app store 登录设个 公用账号（注意不要登录iclould）
 
 
                     
-# 电脑使用方法说明书第一种方法
-## 1用v2rayN软件 
+# 电脑使用方法
+## 用v2rayN软件 
 下载地址
 ##  https://github.com/2dust/v2rayN/releases
     
