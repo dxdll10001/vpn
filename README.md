@@ -12,23 +12,8 @@ VPN使用说明
     
     
 # Android安卓手机使用教程  
-
-       下载V2rayNG这个app  
-           ![](https://api.transno.com/v3/document_image/ca8e9ba2-fef7-40de-9f38-b63e5fa959f3-10714994.jpg)  
-            
-    
-       打开V2rayNG  
-          ![](https://api.transno.com/v3/document_image/11c12274-51f6-436b-b26f-00d6c306aa43-10714994.jpg)  
-            
-    
-       点击右上角的+号  
-        
-       手动输入 
-            
-            -   ![](https://api.transno.com/v3/document_image/456c677d-658b-4958-9f09-b112f596f9e2-10714994.jpg)  
-                
-            
-            -   ![](https://api.transno.com/v3/document_image/724a0abb-ad5c-4441-a54b-f7566b9720b2-10714994.jpg)  
+下载  这个app  
+ 
                 
 
 把下面这些填进去：  
