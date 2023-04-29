@@ -12,96 +12,35 @@
     
     
 # Android安卓手机使用教程  
--
-  -
-    -   下载V2rayNG这个app  
-        -   ![](https://api.transno.com/v3/document_image/ca8e9ba2-fef7-40de-9f38-b63e5fa959f3-10714994.jpg)  
+
+       下载V2rayNG这个app  
+           ![](https://api.transno.com/v3/document_image/ca8e9ba2-fef7-40de-9f38-b63e5fa959f3-10714994.jpg)  
             
     
-    -   打开V2rayNG  
-        -   ![](https://api.transno.com/v3/document_image/11c12274-51f6-436b-b26f-00d6c306aa43-10714994.jpg)  
+       打开V2rayNG  
+          ![](https://api.transno.com/v3/document_image/11c12274-51f6-436b-b26f-00d6c306aa43-10714994.jpg)  
             
     
-    -   点击右上角的+号  
+       点击右上角的+号  
         
-        -   手动输入VLESS  
+       手动输入 
             
             -   ![](https://api.transno.com/v3/document_image/456c677d-658b-4958-9f09-b112f596f9e2-10714994.jpg)  
                 
             
             -   ![](https://api.transno.com/v3/document_image/724a0abb-ad5c-4441-a54b-f7566b9720b2-10714994.jpg)  
                 
-        ```
-        -   把下面这些填进去：  
-            -   新建VMESS协议
-            - 把下面这些填进去
-            -   别名：  
-                -   
-                    
-            
-            -   地址：  
-                -   vpvpvp.top
-                    
-            
-            -   端口:  
-                -   443  
-                    
-            
-            -   用户ID:  
-                -   548ed45a-5538-470d-9666-14784d18031b
-                    
-            
-            -   流控（空着不填）:  
-                -     
-                    
-            
-            -   加密:  
-                -   none  
-                    
-            
-            -   传输协议:  
-                -   ws
-                    
-            
-            -   伪装域名（空着不填）:  
-                -     
-                    
-            
-            -   路径（ws path/h2 path）/QUIC 加密密钥/kcp seed:  
-                -   /ray/
-                    
-            
-            -   底层传输安全（tls）:  
-                -   tls  
-                    
-            
-            -   跳过证书验证:  
-                -   false  
-                    
-            
-            -   SNI（空着不填）:  
-                -     
-                    
         
-        -     
+        把下面这些填进去：  
+            新建协议
+ 
             
-        
-        -   就可以用了  
+            # [新建协议的方法和填进去的内容](新建协议的方法和填进去的内容.md)
+
+           填进去
+           就可以用了  
             
-        ```
-        -     
-            
-        
-        -     
-            
-        
-        -     
-            
-        
-        -     
-            
-        
-        -     
+       
             
 # iphone苹果手机使用教程 
 
@@ -187,35 +126,14 @@
                 -   点击右上角的+号  
                     -   ![](https://api.transno.com/v3/document_image/706b8876-9048-4490-8d3d-25f85cb5de8e-10714994.jpg)  
                         
-                ```
-                -   把下面这些输入进去：  
-                    
-                    -   类型：  
-                        -   VMESS  
-                            
-                    
-                    -   地址：  
-                        -   vpvpvp.top
-                            
-                    
-                    -   端口：  
-                        -   443  
-                            
-                    
-                    -   UUID：  
-                        -   548ed45a-5538-470d-9666-14784d18031b
-                            
-                    
-                    -   TLS：  
-                        -   打开  
-                    - path路径
-                        -  /ray/
-                    - 传输协议
-                        -  ws
-                    - 跳过证书验证
-                        - false
-                            
-                ```
+     把下面这些填进去：  
+            新建协议
+ 
+            
+            # [新建协议的方法和填进去的内容](新建协议的方法和填进去的内容.md)
+
+           填进去
+           就可以用了  
                 -     
                     
                 
@@ -244,37 +162,14 @@
 找个版本点进去下载
 就是windows的版本了
 
-```
-打开填进去
+ 把下面这些填进去：  
+            新建协议
+ 
+            
+            # [新建协议的方法和填进去的内容](新建协议的方法和填进去的内容.md)
 
-
-类型：  
-                        -   VMESS  
-                            
-                    
-                    -   地址：  
-                        -   vpvpvp.top
-                            
-                    
-                    -   端口：  
-                        -   443  
-                            
-                    
-                    -   UUID：  
-                        -   548ed45a-5538-470d-9666-14784d18031b
-                            
-                    
-                    -   TLS：  
-                        -   打开  
-                        
-                    - path路径
-                        -  /ray/
-                    - 传输协议
-                        -  ws
-                    - 跳过证书验证
-                        - false
-
-```
+           填进去
+           就可以用了  
 
 
 
