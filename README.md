@@ -76,6 +76,8 @@ app store 登录设个我告诉你的苹果账号（不要登录iclould）
 ## 第一种方法是用NekoRay软件 
 
 下载地址
+##  https://github.com/MatsuriDayo/nekoray/releases/download/3.9/nekoray-3.9-2023-06-27-windows64.zip
+打不开就用这个地址找到下载地址
 ##  https://github.com/2dust/v2rayN/releases
 
 
