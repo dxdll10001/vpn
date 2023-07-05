@@ -1,15 +1,16 @@
 
-VPN使用说明
+# VPN使用说明
 
-
--   Android安卓手机，iphone苹果手机，电脑使用教程  
+1 Android安卓手机
+2 iphone苹果手机
+3  电脑使用教程  
     
     
     
     
     
     
-# Android安卓手机使用教程  
+# 1  Android安卓手机使用教程  
 下载NekoRay这个app  
  
                 
@@ -20,7 +21,7 @@ VPN使用说明
             
        
             
-# iphone苹果手机使用教程 
+# 2  iphone苹果手机使用教程 
 
 
 在苹果商店里下载shadowrocket这个软件
@@ -69,7 +70,7 @@ app store 登录设个我告诉你的苹果账号（不要登录iclould）
 
 
                     
-# 电脑使用方法
+# 3  电脑使用方法
 
 
 
